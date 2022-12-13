@@ -35,6 +35,14 @@ flutter_icons:
   ios: true
   image_path: 'assets/icon1.png'
 
+flutter_native_splash:
+  background_image: 'assets/background1.png'
+  image: 'assets/icon1.png'
+  branding: 'assets/branding1.png'
+
+android_12:
+  image: 'assets/icon.png'
+
 flutter:
   uses-material-design: true
   assets:
